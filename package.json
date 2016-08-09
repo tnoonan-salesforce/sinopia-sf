@@ -1,0 +1,19 @@
+{
+  "name": "sinopia-sf",
+  "version": "1.0.0",
+  "description": "AWS Elastic Beanstalk Sinopia Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnoonan-salesforce/sinopia-sf.git"
+  },
+  "author": "Tim Noonan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnoonan-salesforce/sinopia-sf/issues"
+  },
+  "homepage": "https://github.com/tnoonan-salesforce/sinopia-sf#readme"
+}
